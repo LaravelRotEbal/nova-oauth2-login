@@ -1,0 +1,18 @@
+{
+    "name": "laravelrotebal/laravel-nova-oauth2-login",
+    "description": "Some classes for fix working auth2 with nova",
+    "license": "MIT",
+    "require": {
+        "kronthto/laravel-oauth2-login": "^1.8"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laravelrotebal\\LaravelNovaOauth2Login\\": "src/"
+        }
+    },
+    "prefer-stable": true
+}

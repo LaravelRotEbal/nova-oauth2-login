@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Laravelrotebal\LaravelNovaOauth2Login;
+namespace Laravelrotebal\NovaOauth2Login;
 
 
 use Kronthto\LaravelOAuth2Login\OAuthProvider as DefaultOauthProvider;

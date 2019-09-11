@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Laravelrotebal\LaravelNovaOauth2Login\Laravelrotebal\LaravelNovaOauth2Login;
+namespace Laravelrotebal\NovaOauth2Login;
 
 
 use Illuminate\Http\Request;

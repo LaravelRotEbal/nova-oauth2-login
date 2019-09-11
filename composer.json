@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Laravelrotebal\\LaravelNovaOauth2Login\\": "src/"
+            "Laravelrotebal\\NovaOauth2Login\\": "src/"
         }
     },
     "prefer-stable": true

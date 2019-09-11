@@ -1,5 +1,5 @@
 {
-    "name": "laravelrotebal/laravel-nova-oauth2-login",
+    "name": "laravelrotebal/nova-oauth2-login",
     "description": "Some classes for fix working auth2 with nova",
     "license": "MIT",
     "require": {
